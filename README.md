@@ -1,3 +1,3 @@
 # Information-Theory-Assignments
 
-Tbilisi Free University information theory course assignments
+Tbilisi Free University information theory course assignments.
